@@ -66,6 +66,14 @@
 
 <br/><br/>
 
+<div align="center">
+    <h2>🖥️ Operating Systems</h2>
+    <br>
+    <img src="https://img.shields.io/badge/Ubuntu%20Linux-1793D1?logo=ubuntu-linux&logoColor=fff&style=for-the-badge" alt="Ubuntu">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <br/><br/><br/>
+</div>
+
 <hr/>
 
 <br/>
