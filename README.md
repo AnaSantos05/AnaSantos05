@@ -11,6 +11,8 @@
 <div align="center">
  
  🔭 I’m currently working on my personal website.
+
+ 🎓 I'm currently studying Computer and Informatics Engineering at Aveiro's University.
  
  🌱 I’m currently learning Assembly and Python.
 
