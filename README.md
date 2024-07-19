@@ -58,7 +58,7 @@
 <hr/>
 
 <div align="center">
-<h2> Projects </h2>
+<h2> 🚧 Projects 🚧 </h2>
     
 <br>
 - Art Website ✅
