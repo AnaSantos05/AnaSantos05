@@ -59,13 +59,23 @@
 
 <div align="center">
 <h2> Projects </h2>
+    
 <br>
 - Art Website ✅
-- TicTacToe in Java ✅
-- Personal Website 🟡 (on going)
-- Sweet Weather - Weather WEB APP 🟡 (on going)
-- Discord Server 🟡 (on going)
 </br>
+<br>
+- TicTacToe in Java ✅
+</br>
+</br>
+- Personal Website 🟡 (on going)
+</br>
+<br>
+- Sweet Weather - Weather WEB APP 🟡 (on going)
+</br>
+</br>
+- Discord Server 🟡 (on going)
+
+<br/><br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
