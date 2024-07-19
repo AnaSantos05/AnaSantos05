@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src= <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" /> />
+  <img alt="snake eating my contributions" src="https://github.com/AnaSantos05/AnaSantos05/blob/snakeoutput/github-contribution-grid-snake.svg?raw=true" />
   
   <br/><br/><br/>
 </div>
