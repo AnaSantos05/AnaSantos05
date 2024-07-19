@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anasantos05.anasantos05" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnaSantos05.AnaSantos05" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=a633ff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ana+Santos!;" />
@@ -56,6 +56,16 @@
 </div>
 
 <hr/>
+
+<div align="center">
+<h2> Projects </h2>
+<br>
+- Art Website ✅
+- TicTacToe in Java ✅
+- Personal Website 🟡 (on going)
+- Sweet Weather - Weather WEB APP 🟡 (on going)
+- Discord Server 🟡 (on going)
+</br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
