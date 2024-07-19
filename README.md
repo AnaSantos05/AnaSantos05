@@ -14,7 +14,7 @@
 
  🎓 I'm currently studying Computer and Informatics Engineering at Aveiro's University.
  
- 🐧 A member or Linux Group of Aveiro's University, GLUA.
+ 🐧 A member of Linux Group of Aveiro's University, GLUA.
 
  🎨 Profile picture drawn by me.
  
