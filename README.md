@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anasantos05.anasantos05" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ana+Santos!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=a633ff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ana+Santos!;" />
 </h1>
 
 <h3 align="center"> I'm an aspiring software developer and self-thaught artist from Portugal 🇵🇹, known on the internet by "DuoSky" :D </h3>
