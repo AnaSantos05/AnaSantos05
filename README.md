@@ -13,12 +13,14 @@
  🔭 I’m currently working on my personal website.
 
  🎓 I'm currently studying Computer and Informatics Engineering at Aveiro's University.
+
+ 🎨 Profile picture drawn by me.
  
  🌱 I’m currently learning Assembly and Python.
 
-💬 Ask me about anything on Discord: `DuoSky`
+ 💬 Ask me about anything on Discord: `DuoSky`
 
-⚡ Besides coding I really like drawing and animating :D
+ ⚡ Besides coding I really like drawing and animating :D
 
  </div>
  
