@@ -72,8 +72,11 @@
 <br>
 - Sweet Weather - Weather WEB APP 🟡 (on going)
 </br>
-</br>
+<br>
 - Discord Server 🟡 (on going)
+</br>
+<br>
+-Discord Bot ❌ (not started yet)
 
 <br/><br/>
 
